@@ -4,4 +4,5 @@ int main()
 {
 	cout << "HALLOU" << "ZLUPA";
 
-}//υσι
+}
+//main xyetas
