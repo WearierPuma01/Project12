@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
 	cout << "HALLOU" << "ZLUPA";
-	cout << "лошары";
-
+	//56454
 }
+//main xyetas
+//what
